@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     private IntentFilter intentFilter; //Intent 过滤器
     private LocalReceiver localReceiver;
     private LocalBroadcastManager localBroadcastManager;
-
+    //奥术大师多
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
